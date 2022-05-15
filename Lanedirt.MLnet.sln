@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lanedirt.MLnet", "Lanedirt.MLnet\Lanedirt.MLnet.csproj", "{BF4188F2-9328-4805-9879-9C8B3068A72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanedirt.ModelTester", "Lanedirt.ModelTester\Lanedirt.ModelTester.csproj", "{044EE92E-0F53-45DE-A5EB-DA0E86309EB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72C1AF47-BD1B-4182-9579-065F648344BA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4188F2-9328-4805-9879-9C8B3068A72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4188F2-9328-4805-9879-9C8B3068A72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4188F2-9328-4805-9879-9C8B3068A72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4188F2-9328-4805-9879-9C8B3068A72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044EE92E-0F53-45DE-A5EB-DA0E86309EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044EE92E-0F53-45DE-A5EB-DA0E86309EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044EE92E-0F53-45DE-A5EB-DA0E86309EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044EE92E-0F53-45DE-A5EB-DA0E86309EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECA4E25C-D281-4F1C-939C-B4E780A93F85}
+	EndGlobalSection
+EndGlobal
